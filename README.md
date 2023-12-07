@@ -73,3 +73,14 @@ npm install lowlight @tiptap/extension-code-block-lowlight highlight.js
   - quilljs
   - remirror (proseMirror adaptado pro react)
   - tiptap (usado no projeto)
+
+## Melhorias no projeto
+- radix ui navegar com teclado nas pop-up que abre
+- cmdk.paco
+  - componente de pesquisa ao apertar cmd + k
+
+- liveblocks (pago)
+  - editor de texto colaborativo
+- supabase realtime (pago)
+- yjs
+  - criação software colaborativo
