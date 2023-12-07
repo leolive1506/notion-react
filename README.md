@@ -1,3 +1,4 @@
+# [Resumo app em video](https://github.com/leolive1506/page-editor-react/assets/89431704/8b57f5de-fa62-4d7d-8375-765d882f8bb0)
 # [Install tailwind react](https://tailwindcss.com/docs/guides/vite)
 ```sh
 npm i -D tailwindcss postcss auto prefixer
@@ -84,3 +85,6 @@ npm install lowlight @tiptap/extension-code-block-lowlight highlight.js
 - supabase realtime (pago)
 - yjs
   - criação software colaborativo
+
+
+
