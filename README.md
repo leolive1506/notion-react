@@ -52,8 +52,14 @@ export default function Editor() {
     />
   )
 }
-
 ```
+- [usado lowlight](https://tiptap.dev/api/nodes/code-block-lowlight#lowlight)
+  - cor no codigo
+```sh
+npm install lowlight @tiptap/extension-code-block-lowlight highlight.js
+```
+- usado bubble menu 
+  - pop para editar texto selecionado
 
 # Dicas gerais
 - [site pegar gradiente tailwind](https://hypercolor.dev/)

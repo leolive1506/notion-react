@@ -13,19 +13,21 @@ export const initialContent = `
   <li>
     <h3>Rapid Development</h3>
     <p>With Tailwind, you can quickly prototype and build user interfaces without having to write custom CSS. The utility classes handle common styling tasks, allowing you to focus on the structure and functionality of your application.</p>
-    <code>&lt;div class="bg-blue-500 text-white p-4"&gt;This is a styled div&lt;/div&gt;</code>
+    <code class="language-javascript">
+      console.log('hello word')
+    </code>
   </li>
 
   <li>
     <h3>Customization</h3>
     <p>Tailwind is highly customizable, giving you the flexibility to define your own utility classes and styles. This allows you to maintain a consistent design system across your application while tailoring it to your specific needs.</p>
-    <code>&lt;button class="btn-primary"&gt;Custom Button&lt;/button&gt;</code>
+    <code class="language-html">&lt;button class="btn-primary"&gt;Custom Button&lt;/button&gt;</code>
   </li>
 
   <li>
     <h3>Responsive Design</h3>
     <p>Creating responsive designs is seamless with Tailwind. The framework provides classes for handling different screen sizes, making it easy to build websites that look great on desktops, tablets, and mobile devices.</p>
-    <code>&lt;div class="lg:flex lg:justify-between"&gt;Content for large screens&lt;/div&gt;</code>
+    <code class="language-html">&lt;div class="lg:flex lg:justify-between"&gt;Content for large screens&lt;/div&gt;</code>
   </li>
 </ul>
 
