@@ -13,9 +13,7 @@ export const initialContent = `
   <li>
     <h3>Rapid Development</h3>
     <p>With Tailwind, you can quickly prototype and build user interfaces without having to write custom CSS. The utility classes handle common styling tasks, allowing you to focus on the structure and functionality of your application.</p>
-    <code class="language-javascript">
-      console.log('hello word')
-    </code>
+    <pre><code class="language-javascript">console.log('hello word')</code></pre>
   </li>
 
   <li>

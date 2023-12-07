@@ -58,7 +58,7 @@ export default function Editor() {
 ```sh
 npm install lowlight @tiptap/extension-code-block-lowlight highlight.js
 ```
-- usado bubble menu 
+- usado [bubble menu](https://tiptap.dev/api/extensions/bubble-menu)
   - pop para editar texto selecionado
 
 # Dicas gerais
